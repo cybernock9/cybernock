@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/cybernock9/cybernock/blob/main/gif.png" width="300" alt="Hacking terminal gif" />
+  <img src="https://github.com/cybernock9/cybernock/blob/main/Logo%20CN.png" width="400" alt="Hacking terminal gif" />
 </p>
 
 <p align="center"><b>「 Web Pentesting | Bug Bounty | Cybersecurity Training 」</b></p>
