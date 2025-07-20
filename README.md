@@ -66,7 +66,7 @@ Dalfox         💉 XSS automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/cyber-nock-3aaa24374/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="300" alt="Hacking terminal gif" />
+  <img src="https://github.com/cybernock9/cybernock/blob/main/gif.png" width="300" alt="Hacking terminal gif" />
 </p>
 
 <p align="center"><b>“Train Hard. Hack Smart. Stay Ethical.” — CyberNock</b></p>
