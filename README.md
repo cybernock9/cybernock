@@ -2,14 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=36FF9F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Hey%2C+Welcome+to+CyberNock+%F0%9F%9A%80;Web+Pentesting+%7C+Bug+Bounty+%7C+Security+Training;Automation+Lover+%7C+Tool+Builder" alt="Typing SVG"/>
 </p>
 
-<pre align="center">
-   ███████╗██╗   ██╗██████╗ ███████╗██████╗ ███╗   ██╗ ██████╗  ██████╗  ██████╗██╗  ██╗
-   ██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔═══██╗██╔════╝ ██╔════╝██║ ██╔╝
-   █████╗  ██║   ██║██████╔╝█████╗  ██████╔╝██╔██╗ ██║██║   ██║██║  ███╗██║     █████╔╝ 
-   ██╔══╝  ██║   ██║██╔═══╝ ██╔══╝  ██╔═══╝ ██║╚██╗██║██║   ██║██║   ██║██║     ██╔═██╗ 
-   ██║     ╚██████╔╝██║     ███████╗██║     ██║ ╚████║╚██████╔╝╚██████╔╝╚██████╗██║  ██╗
-   ╚═╝      ╚═════╝ ╚═╝     ╚══════╝╚═╝     ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝
-</pre>
+<p align="center">
+  <img src="https://github.com/cybernock9/cybernock/blob/main/gif.png" width="300" alt="Hacking terminal gif" />
+</p>
 
 <p align="center"><b>「 Web Pentesting | Bug Bounty | Cybersecurity Training 」</b></p>
 
